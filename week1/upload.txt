@@ -1,0 +1,5 @@
+1cd进入c-learning-xxx文件夹
+git add.
+2git commit -m "upload" 
+3 gitush
+4根据提示输入github 用户名和密码
